@@ -1,0 +1,15 @@
+.background    { background-image: url(https://opengameart.org/sites/default/files/oga-textures/stonetiles_003_diff.jpg);
+                 background-size: 120px 100px;
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.lava          { background-image: url(https://opengameart.org/sites/default/files/Lava%20%233.png);
+				 background-size: 30px 20px;}
+.wall          { background-image: url(http://devfloat.net/wp-content/uploads/2016/01/lavarock.jpg);
+				 background-size: 120px 100px;}
+.floater	   { background-image: url(http://texturelib.com/Textures/metal/tread%20plate/metal_tread_plate_0025_01_preview.jpg);
+				 background-size: 70px 60px;}
+
+.game {
+  position: relative;
+}
